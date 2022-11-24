@@ -1,0 +1,149 @@
+{
+  "bitfield": "fffffffffffffffffffffffffff8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001ffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000fffffffffffffffffffffffffffffffffffffffffffffffffffff80000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "completedLength": "585547776",
+  "connections": "2",
+  "dir": "\/home\/pi\/MediaServerGo\/_disk_manager_dir\/NAS600\/Arrow S05",
+  "downloadSpeed": "301016",
+  "files": [
+    {
+      "completedLength": "584056832",
+      "index": "1",
+      "length": "5768434140",
+      "path": "\/home\/pi\/MediaServerGo\/_disk_manager_dir\/NAS600\/Arrow S05\/Arrow.S05E10.Who.Are.You.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+      "selected": "true",
+      "uris": [
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "used",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        },
+        {
+          "status": "waiting",
+          "uri": "https:\/\/vod1492-aliyun06-vip-lixian.xunlei.com\/download\/?fid=VKIcyNGiLsA5KY*90HPi9mE2U-bcUdNXAQAAADSp5rnIXpcqEPlyUVZCKXNmxc3r&mid=666&threshold=251&tid=5068E2996301AAA4B4B92AC4572002E2&srcid=0&verno=2&pk=xdrive&e=1669043135&g=34A9E6B9C85E972A10F972515642297366C5CDEB&i=54A21CC8D1A22EC039298FBDD073E2F6613653F6&ui=571708815&t=0&hy=0&ms=153600&th=153600&pt=1&f=5768434140&alt=0&pks=652&rts=&spr=flow&clientid=Xp6vsxz_7IYVw2BB&fileid=VNHMvAn20qbrs93XA7QIlzwBA1&userid=571708815&cliplugver=&projectid=2rvk4e3gkdnl7u1kl0k&vip=FREE&clientver=7.55.0.8286&fext=mkv&at=C758683F8FD24F7D266BEBF71296FF48"
+        }
+      ]
+    }
+  ],
+  "gid": "6a7725352d39e126",
+  "numPieces": "5502",
+  "pieceLength": "1048576",
+  "status": "active",
+  "totalLength": "5768434140",
+  "uploadLength": "0",
+  "uploadSpeed": "0"
+}
